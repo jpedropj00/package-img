@@ -1,1 +1,1 @@
-# package-img
+# Módulo de processamento de imagens e utilização de filtros de imagens, USE A VONTADE
